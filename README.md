@@ -4,7 +4,7 @@ I am **Bahattin**.
 
 I am a [senior software developer](https://www.linkedin.com/in/bahattincinic/) who has been coding for ten years. Usually, I am working on web applications on both sides; frontend and backend. I had many chances to work with different languages and technologies from zero to production.
 
-- Experience in Python, Golang, PHP, Javascript, NodeJs, React, React Native, Vue and Kubernetes and many other.
+- Experience in Python, Golang, PHP, Kubernetes, Javascript, Node.js, React, React Native, Vue and many other.
 - Having knowledge about AdTech, eCommerce, ERP, Travel Industries.
 - Curiosity about distributed systems, scaling, automation.
 
